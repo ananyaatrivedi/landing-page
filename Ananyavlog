@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>WEBSITE</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<div class="container">
+	<div class="main">
+		<nav>
+			<div class="logo">
+				<h1>Welcome to Ananya's Blog</h1>
+			</div>
+			<ul>
+				<li><a href="index1.html" class="btn1">Home</a></li>
+				<li><a href="about.html" class="btn1">About Us</a></li>
+				<li><a href="#" class="btn1">Gallery</a></li>
+				<li><a href="#" class="btn1">Blog</a></li>
+				<li><a href="#" class="btn1">Contact</a></li>
+			</ul>
+		</nav>
+	</div>
+	<div class="slider">
+		<div class="title">
+			<h1>We Believe<span> Great Design Make </span>Great Buisness</h1>
+			<p>Professional Creativity clean featured website templates for your buisness Let's start an awesome project now!</p>
+			<a href="#" class="btn">GET MORE</a>
+			<a href="#" class="btn">PURCHASE NOW</a>
+		</div>
+	</div>
+
+
+	
+
+	
+
+	</div>
+</div>
+</body>
+</html>
